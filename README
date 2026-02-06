@@ -1,0 +1,45 @@
+# 🎓 University Admissions Bot
+
+An intelligent chatbot designed to assist students with university admission queries by providing clear, concise, and structured information about programs, eligibility, application procedures, and deadlines.
+
+---
+
+## 📌 Project Overview
+
+The **University Admissions Bot** helps prospective students navigate the college admission process efficiently. Instead of searching through lengthy university websites, users can ask questions and receive instant, accurate responses.
+
+This project focuses on compressing admission-related information into an easy-to-use conversational interface.
+
+---
+
+## ✨ Features
+
+- 📚 Program information (UG / PG / Diploma)
+- ✅ Eligibility criteria
+- 📝 Application process guidance
+- 📄 Required documents
+- 📅 Important deadlines
+- ❓ Frequently Asked Questions (FAQs)
+- 💬 User-friendly conversational responses
+
+---
+
+## 🛠️ Technologies Used
+
+- Chatbot Framework / NLP Model  
+- Python / JavaScript (based on implementation)
+- JSON / CSV for knowledge base
+- GitHub for version control
+
+---
+
+## 🧠 How It Works
+
+1. User asks a question related to admissions.
+2. The chatbot identifies the intent.
+3. Relevant compressed admission information is retrieved.
+4. A clear and concise response is returned to the user.
+
+---
+
+## 📂 Project Structure
